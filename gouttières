@@ -1,36 +1,34 @@
 <html>
     
     <body>
-        <h1>Les gouttières</h1>
+        <h1>Les gouttieres</h1>
 
-        <h2>Définition:</h2>
+        <h2>Definition:</h2>
         <hr/>
 
-        <p>Une gouttière est un ouvrage de collecte des eaux pluviales disposé à l'égout d'un toit. Elle diffère d'un chéneau par la nature discontinue de son support. Le chéneau est posé sur une fonçure faite généralement de voliges ou de frises jointives, quelquefois de plâtre. La gouttière est portée par des crochets dont les profils caractérisent des façons régionales.</p>
+        <p>Une gouttiere est un ouvrage de collecte des eaux pluviales dispose a l'egout<br> d'un toit. Elle differe d'un cheneau par la nature discontinue de son support.<br> Le cheneau est pose sur une foncure faite generalement de voliges ou de<br> frises jointives, quelquefois de platre. La gouttiere est portee par des<br>crochets dont les profils caracterisent des facons regionales.</p>
 
         <h2>Les types</h2>
         <hr/>
 
-        <p>La gouttière est dite pendante quand les crochets sont fixés à l'extrémité des chevrons en saillie, soit directement, soit par l'intermédiaire d'un bandeau d'égout.</p>
+        <p>La gouttiere est dite pendante quand les crochets sont fixes a l'extremite des <br>chevrons en saillie, soit directement, soit par l'intermediaire d'un bandeau<br> d'egout.</p>
 
-        <p>Elle est dite rampante si les crochets sont fixés à la face supérieure des chevrons ou au voligeage de l'égout.</p>
+        <p>Elle est dite rampante si les crochets sont fixes a la face superieure des<br> chevrons ou au voligeage de l'egout.</p>
 
-        <p>On la pose aussi sur entablement à la façon anglaise, ou sur des crochets munis d'une chevillette fichée dans le mur gouttereau, à la façon du Nord.</p>
+        <p>On la pose aussi sur entablement a la facon anglaise, ou sur des crochets<br> munis d'une chevillette fichee dans le mur gouttereau, a la facon du Nord.</p>
 
-        <h2>Les matériaux</h2>
+        <h2>Les materiaux</h2>
         <hr/>
 
-        <p>On utilise pour façonner les gouttières divers métaux laminés assez rigides pour franchir sans risque de fluage la distance entre les chevrons :</p>
+        <p>On utilise pour faconner les gouttieres divers metaux lamines assez rigides<br> pour franchir sans risque de fluage la distance entre les chevrons :</p>
     
         <ul>
             <li>le zinx</li>
             <li>le cuivre</li>
-            <li>le fer galvanisé></li>
+            <li>le fer galvanise</li>
             <li>l'acier inoxydable</li>
             <li>l'aluminium</li>
             <li>le PVC</li>
         </ul>
-
-        <p>Source : <a href="https://fr.wikipedia.org/wiki/Goutti%C3%A8re_(architecture)" </a>
     </body>
 </html>
